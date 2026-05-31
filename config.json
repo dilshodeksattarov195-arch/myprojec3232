@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartspdate",
+        "uuid": 8092928,
+        "checksum": "6d99ff"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
